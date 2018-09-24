@@ -1,5 +1,8 @@
 _repo: Mormon-Doctrine-Plain-and-Simple-Or-Leaves-from-the-Tree-of-Life_56700
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56700-h/images/cover.jpg
 creator:
   author:
     agent_name: Penrose, Charles W. (Charles William)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '44066'
     url: http://www.gutenberg.org/2009/agents/44066
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56700#Mormon-Doctrine-Plain-and-Simple-Or-Leaves-from-the-Tree-of-Life
 gutenberg_issued: '2018-03-07'
 gutenberg_type: Text
 identifiers:
